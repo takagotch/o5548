@@ -6,6 +6,7 @@
 
 
 ```
+exampleSite/public
 ```
 
 ```
